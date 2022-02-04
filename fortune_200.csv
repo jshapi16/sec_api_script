@@ -1,0 +1,203 @@
+﻿Fortune_Rank,Company,Financial?,CIK
+1,Walmart,N,0000104169
+2,Amazon,N,0001018724
+3,Apple,N,0000320193
+4,Cvs Health,N,0000064803
+5,UnitedHealth Group,N,0000731766
+7,Mckesson,N,0000927653
+8,Amerisourcebergen,N,0001140859
+9,Alphabet,N,0001652044
+10,Exxon Mobil,N,0000034088
+11,At&T,N,0001018724
+12,Costco Wholesale,N,0001393231
+13,Cigna,N,0001739940
+14,Cardinal Health,N,0000721371
+15,Microsoft,N,0000789019
+16,Walgreens Boots Alliance,N,0001618921
+17,Kroger,N,0000056873
+18,Home Depot,N,0000354950
+20,Verizon Communications,N,0000732712
+21,Ford Motor,N,0000037996
+22,General Motors,N,0001467858
+23,Anthem,N,0001156039
+24,Centene,N,0001071739
+26,Comcast,N,0001166691
+27,Chevron,N,0000093410
+28,Dell Technologies,N,0001571996
+30,Target,N,0000027419
+31,Lowes,N,0000060667
+32,Marathon Petroleum,N,0001510295
+34,Meta Platforms,N,0001326801
+35,United Parcel Service,N,0001090727
+36,Johnson & Johnson,N,0000200406
+38,General Electric,N,0000040545
+40,Intel,N,0000050863
+41,Humana,N,0000049071
+42,International Business Machines,N,0000051143
+43,Procter & Gamble,N,0000080424
+44,Pepsico,N,0000077476
+45,Fedex,N,0001048911
+48,Phillips 66,N,0001534701
+49,Lockheed Martin,N,0000936468
+50,Walt Disney,N,0001744489
+51,Archer Daniels Midland (Adm),N,0000007084
+52,Albertsons,N,0001284719
+53,Valero Energy,N,0000021271
+54,Boeing,N,0000012927
+56,Hp,N,0001645590
+57,Raytheon Technologies,N,0000101829
+60,Sysco,N,0000096021
+62,Hca Healthcare,N,0000860730
+63,Cisco Systems,N,0000858877
+64,Charter Communications,N,0001091667
+65,Merck,N,0000310158
+66,Best Buy,N,0000764478
+68,Abbvie ,N,0001551152
+69,Publix Super Markets ,N,0001623605
+73,Tyson Foods,N,0000100493
+75,Bristol-Myers Squibb,N,0000014272
+77,Pfizer,N,0000078003
+78,Caterpillar,N,0000018230
+80,Oracle,N,0001341439
+81,Energy Transfer,N,0001648098
+82,Dow,N,0001751788
+84,General Dynamics,N,0000040533
+85,Nike,N,0000320187
+86,Northrop Grumman,N,0001133421
+88,Deere,N,0000315189
+89,Abbott Laboratories,N,0000001800
+91,Dollar General,N,0000029534
+92,Exelon,N,0001109357
+93,Coca-Cola,N,0000021344
+94,Honeywell International ,N,0000773840
+95,Thermo Fisher Scientific ,N,0000097745
+96,3M ,N,0000066740
+97,Tjx,N,0000814445
+100,Tesla ,N,0001318605
+101,Philip Morris International ,N,0001413329
+102,Arrow Electronics,N,0000007536
+103,Chs,N,0000823277
+104,Jabil ,N,0000898293
+105,Enterprise Products Partners,N,0001061219
+106,Hewlett Packard Enterprise,N,0000047217
+107,United Natural Foods,N,0001020859
+108,Mondelez International,N,0001103982
+109,Viacomcbs,N,0000813828
+110,Kraft Heinz,N,0001637459
+111,Dollar Tree,N,0000935703
+112,Amgen,N,0000318154
+114,Performance Food Group,N,0001618673
+115,Netflix,N,0001065280
+116,Gilead Sciences,N,0000882095
+117,Td Synnex,N,0001177394
+118,Eli Lilly,N,0000059478
+121,Broadcom,N,0001138118
+124,Qualcomm,N,0000804328
+125,Starbucks,N,0000829224
+126,Duke Energy,N,0001326160
+127,Plains Gp Holdings,N,0001581990
+128,Us Foods Holding,N,0001665918
+129,Lennar,N,0000920760
+130,Danaher,N,0000313616
+132,Rite Aid,N,0000084129
+135,Micron Technology,N,0000723125
+136,Carmax,N,0001170010
+137,Salesforce,N,0001108524
+138,Altria Group,N,0000764180
+139,Lumen Technologies,N,0000018926
+140,Baker Hughes,N,0001701605
+141,International Paper,N,0001283246
+143,Penske Automotive Group,N,0001019849
+144,Dupont,N,0001666700
+145,Autonation,N,0000350698
+146,Southern,N,0000092122
+147,World Fuel Services,N,0000789460
+148,D.R Horton,N,0000882184
+149,Nucor,N,0000073309
+150,Cummins,N,0000026172
+151,Ngl Energy Partners,N,0001504461
+152,Dxc Technology,N,0001688568
+153,Union Pacific,N,0000100885
+154,Whirlpool,N,0000106640
+155,Molina Healthcare,N,0001179929
+156,Conocophillips,N,0000078214
+157,Mcdonald'S,N,0000063908
+158,Kimberly-Clark,N,0000055785
+159,Paccar,N,0000075362
+160,Pg&E,N,0001004980
+161,Cdw,N,0001402057
+162,Sherwin-Williams,N,0000089800
+163,L3Harris Technologies,N,0000202058
+164,Macy'S,N,0000794367
+165,Manpowergroup,N,0000871763
+166,Nextera Energy,N,0001603145
+167,Tenet Healthcare,N,0000070318
+168,Avnet,N,0000008858
+169,General Mills,N,0000040704
+170,Westrock ,N,0001732845
+171,Carrier Global,N,0001783180
+173,Genuine Parts,N,0000040987
+174,American Airlines Group,N,0000006201
+176,Applied Materials,N,0000006951
+177,Becton Dickinson,N,0000010795
+178,Delta Air Lines,N,0000027904
+179,Lear,N,0000842162
+181,Emerson Electric,N,0000032604
+182,Western Digital,N,0000106040
+183,Occidental Petroleum,N,0000797468
+184,Nvidia,N,0000797468
+185,Cognizant Technology Solutions,N,0001058290
+188,Colgate-Palmolive,N,0000021665
+189,Aecom,N,0000868857
+190,Xpo Logistics,N,0001166003
+191,C.H. Robinson Worldwide ,N,0001043277
+193,Dominion Energy,N,0000715957
+195,Kohls,N,0000885639
+196,Fluor,N,0001124198
+197,Dish Network,N,0001001082
+198,Bj'S Wholesale Club,N,0001531152
+199,Tenneco,N,0001024725
+200,United Airlines Holdings,N,0000100517
+202,Waste Management,N,0000823768
+203,Pbf Energy,N,0001534504
+204,American Electric Power,N,0000004904
+205,Fiserv,N,0000798354
+208,Automatic Data Processing,N,0000008670
+209,Stanley Black & Decker,N,0000093556
+210,Texas Instruments,N,0000097476
+211,Halliburton,N,0000045012
+212,Stryker,N,0003100764
+213,Estee Lauder,N,0001001250
+214,Corteva,N,0001755672
+215,Freeport-Mcmoran,N,0000831259
+216,Qurate Retail,N,0001355096
+217,Wayfair,N,0001616707
+218,Laboratory Corp of America,N,0000920148
+219,Land O' Lakes,N,0001032562
+220,Ppg Industries,N,0000079879
+221,Gap,N,0000039911
+222,Kellogg,N,0000055067
+223,Parker-Hannifin,N,0000076334
+224,Core-Mark Holding,N,0001318084
+225,Jacobs Engineering Group,N,0000052988
+226,Edison International,N,0000827052
+228,Biogen,N,0000875045
+229,Omnicom Group,N,0000029989
+231,Lithia Motors,N,0001023128
+234,Adobe,N,0000796343
+235,Aramark,N,0001584509
+236,Otis Worldwide,N,0001781335
+237,Ecolab,N,0000031462
+238,Autozone,N,0000866787
+239,Loews,N,0000060086
+240,Illionois Tool Works,N,0000049826
+242,Ross Stores,N,0000745732
+243,Peter Kiewit Sons',N,0000190181
+245,Wesco International,N,0000929008
+246,Goodyear Tire & Rubber,N,0000042582
+247,Fox,N,0001754301
+248,Leidos Holdings,N,0001336920
+249,Consolidated Edison,N,0001047862
+250,Dte Energy,N,0000936340
+254,Viatris,N,0001792044
+255,Sempra Energy,N,0001032208
